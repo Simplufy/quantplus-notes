@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simplufy.github.io/quantplus-notes/sitemap.xml
